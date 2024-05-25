@@ -1,11 +1,11 @@
 body{
 	font-family: 'Recursive', sans-serif;	
-	background-color: #1b1833;    
+	background-color: #080808;    
 }
 
 .logo{
     
-	max-width: 160px;    
+	max-width: 30px;    
 }
 .cabecalho{
 	display: flex;
@@ -33,7 +33,7 @@ body{
     flex-direction: column;   
 }
 .itens_navegacao{
-    color: white;
+    color: rgb(7, 7, 7);
 	text-decoration: none;
 	font-size: 1.25rem;
     transition: 1.5s;
@@ -50,7 +50,7 @@ body{
 	display: flex;
 	justify-content: center;	
     align-items: center;    
-    background-image: url('./imagem/primeiro_fundo.webp');
+    background-image: url('./img/fundo7.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
